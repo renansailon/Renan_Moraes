@@ -1,0 +1,19 @@
+
+
+
+Pode-se utilizar o cnpj abaixo:
+27.090.363/0001-11 
+Precione Tab após informar o CNPJ, a API da receita trará os dados automaticamente.
+
+
+Pode-se utilizar o cep abaixo:
+80730000
+Precione Tab após informar o CEP, o sistema trará os dados de forma automática.
+
+preencha os campos obrigatórios:
+Cnpj - Formulário solicitará preenchimento caso deixar o campo em branco.
+
+Cep - Formulário solicitará preenchimento caso deixar o campo em branco.
+
+Deixe sua opinião - Formulário solicita opinião sobre os serviços caso o usuário não preencha o campo.
+
